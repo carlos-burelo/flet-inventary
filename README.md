@@ -2,18 +2,25 @@
 
 Example using flet for build interfaces in python for create a inventary system saving data in sqlite database.
 
-# INSTALACION
+
+![img1](./captures/1.png)
+![img2](./captures/2.png)
+![img3](./captures/3.png)
+![img4](./captures/4.png)
+
+
+# INSTALATION
 
 
 ```batch
-# creacion del entorno virutal
+# creating virtual enviroment
 py -m venv .env
 .env\Scripts\activate
 pip install -r requeriments.txt
 ```
 
 
-# INICIAR
+# RUN
 
 ```batch
 flet run main.py
